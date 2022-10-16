@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Ecommerce.Web.Model.InvoiceMasterViewModel>
+@using System;
+@{
+    ViewData["Title"] = "Admin Home";
+}
+<style>
+    .card {
+        margin-bottom: 20px;
+        border-radius: 20px;
+        width: 400px;
+        background-color: lightblue;
+    }
+
+        .card:hover {
+            color: blueviolet;
+            background-image: linear-gradient(to right,#000428, #004e92);
+        }
+
+    .item {
+    }
+</style>
+<h2 class="text-center">Invoice</h2>
+
+@if (Model != null)
+{
+
+    decimal runningTotal = 0M;
+    int count = 0;
+    <div class="container">
+        <div class="mx-auto">
+            @foreach (var item in Model)
+            {
+                count++;
+                runningTotal += item.quantity;
+                <div class="card py-3 shadow-lg mx-auto h4 text-center">
+
+                    <div>
+                        Product Id : @Html.DisplayFor(modelItem => item.productid)
+                    </div>
+                    <div>
+                        User Id : @Html.DisplayFor(modelItem => item.userid)
+                    </div>
+                    <div>
+                        Shop Date : @Html.DisplayFor(modelItem => item.shopdate)
+                    </div>
+                    <div>
+                        Quantity : @Html.DisplayFor(modelItem => item.quantity)
+                    </div>
+
+                </div>
+            }
+            <h3 class="text-center">Invoice Total: @runningTotal</h3>
+        </div>
+    </div>
+}
+else
+{
+
+    <h4 class="text-center">No Invoice found</h4>
+}
+
+<div class="text-center mb-5 mt-2">
+    @Html.ActionLink("Add Product", "Create", "Product",null,new{@class="btn-primary btn-lg"})
+</div>
