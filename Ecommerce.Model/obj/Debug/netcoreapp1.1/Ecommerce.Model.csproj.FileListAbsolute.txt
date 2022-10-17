@@ -1,0 +1,120 @@
+C:\Users\hp\Downloads\Ecommerce.WebApi-master2\Ecommerce.WebApi-master\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.deps.json
+C:\Users\hp\Downloads\Ecommerce.WebApi-master2\Ecommerce.WebApi-master\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\hp\Downloads\Ecommerce.WebApi-master2\Ecommerce.WebApi-master\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\Users\hp\Downloads\Ecommerce.WebApi-master2\Ecommerce.WebApi-master\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Ecommerce.WebApi-master2\Ecommerce.WebApi-master\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Ecommerce.WebApi-master2\Ecommerce.WebApi-master\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Ecommerce.WebApi-master2\Ecommerce.WebApi-master\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfo.cs
+C:\Users\hp\Downloads\Ecommerce.WebApi-master2\Ecommerce.WebApi-master\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Ecommerce.WebApi-master2\Ecommerce.WebApi-master\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\hp\Downloads\Ecommerce.WebApi-master2\Ecommerce.WebApi-master\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+F:\Capekish\unzip\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.deps.json
+F:\Capekish\unzip\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.dll
+F:\Capekish\unzip\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+F:\Capekish\unzip\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.AssemblyReference.cache
+F:\Capekish\unzip\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capekish\unzip\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfoInputs.cache
+F:\Capekish\unzip\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfo.cs
+F:\Capekish\unzip\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+F:\Capekish\unzip\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.dll
+F:\Capekish\unzip\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\Users\mukul\OneDrive\Desktop\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.deps.json
+C:\Users\mukul\OneDrive\Desktop\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\mukul\OneDrive\Desktop\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\Users\mukul\OneDrive\Desktop\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.AssemblyReference.cache
+C:\Users\mukul\OneDrive\Desktop\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mukul\OneDrive\Desktop\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfoInputs.cache
+C:\Users\mukul\OneDrive\Desktop\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfo.cs
+C:\Users\mukul\OneDrive\Desktop\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\mukul\OneDrive\Desktop\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\mukul\OneDrive\Desktop\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+F:\Capekish\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.deps.json
+F:\Capekish\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.dll
+F:\Capekish\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+F:\Capekish\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.AssemblyReference.cache
+F:\Capekish\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capekish\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfoInputs.cache
+F:\Capekish\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfo.cs
+F:\Capekish\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+F:\Capekish\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.dll
+F:\Capekish\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+E:\Wipro GL\Capstone-Project\Final Project\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.deps.json
+E:\Wipro GL\Capstone-Project\Final Project\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.dll
+E:\Wipro GL\Capstone-Project\Final Project\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+E:\Wipro GL\Capstone-Project\Final Project\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.AssemblyReference.cache
+E:\Wipro GL\Capstone-Project\Final Project\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro GL\Capstone-Project\Final Project\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfoInputs.cache
+E:\Wipro GL\Capstone-Project\Final Project\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfo.cs
+E:\Wipro GL\Capstone-Project\Final Project\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+E:\Wipro GL\Capstone-Project\Final Project\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.dll
+E:\Wipro GL\Capstone-Project\Final Project\DotnetCore.WebApi.Mvc.Ecommerce\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\Users\mukul\OneDrive\Desktop\capstoneToy\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.deps.json
+C:\Users\mukul\OneDrive\Desktop\capstoneToy\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\mukul\OneDrive\Desktop\capstoneToy\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\Users\mukul\OneDrive\Desktop\capstoneToy\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.AssemblyReference.cache
+C:\Users\mukul\OneDrive\Desktop\capstoneToy\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mukul\OneDrive\Desktop\capstoneToy\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfoInputs.cache
+C:\Users\mukul\OneDrive\Desktop\capstoneToy\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfo.cs
+C:\Users\mukul\OneDrive\Desktop\capstoneToy\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\mukul\OneDrive\Desktop\capstoneToy\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\mukul\OneDrive\Desktop\capstoneToy\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+F:\New folder-Project\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.deps.json
+F:\New folder-Project\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.dll
+F:\New folder-Project\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+F:\New folder-Project\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.AssemblyReference.cache
+F:\New folder-Project\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder-Project\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfoInputs.cache
+F:\New folder-Project\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfo.cs
+F:\New folder-Project\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+F:\New folder-Project\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.dll
+F:\New folder-Project\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\Users\gowth\Desktop\New folder\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.deps.json
+C:\Users\gowth\Desktop\New folder\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\gowth\Desktop\New folder\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\Users\gowth\Desktop\New folder\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.AssemblyReference.cache
+C:\Users\gowth\Desktop\New folder\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gowth\Desktop\New folder\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfoInputs.cache
+C:\Users\gowth\Desktop\New folder\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfo.cs
+C:\Users\gowth\Desktop\New folder\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\gowth\Desktop\New folder\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\gowth\Desktop\New folder\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\Users\gowth\Desktop\New folder (2)\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.deps.json
+C:\Users\gowth\Desktop\New folder (2)\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\gowth\Desktop\New folder (2)\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\Users\gowth\Desktop\New folder (2)\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.AssemblyReference.cache
+C:\Users\gowth\Desktop\New folder (2)\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gowth\Desktop\New folder (2)\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfoInputs.cache
+C:\Users\gowth\Desktop\New folder (2)\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfo.cs
+C:\Users\gowth\Desktop\New folder (2)\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\gowth\Desktop\New folder (2)\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\gowth\Desktop\New folder (2)\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\Users\gowth\Desktop\Viva\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.deps.json
+C:\Users\gowth\Desktop\Viva\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\gowth\Desktop\Viva\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\Users\gowth\Desktop\Viva\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.AssemblyReference.cache
+C:\Users\gowth\Desktop\Viva\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gowth\Desktop\Viva\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfoInputs.cache
+C:\Users\gowth\Desktop\Viva\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfo.cs
+C:\Users\gowth\Desktop\Viva\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\gowth\Desktop\Viva\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\gowth\Desktop\Viva\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\69_JISU\Edu\Projects\Shuham\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.deps.json
+C:\69_JISU\Edu\Projects\Shuham\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\69_JISU\Edu\Projects\Shuham\Final\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\69_JISU\Edu\Projects\Shuham\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.AssemblyReference.cache
+C:\69_JISU\Edu\Projects\Shuham\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\69_JISU\Edu\Projects\Shuham\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfoInputs.cache
+C:\69_JISU\Edu\Projects\Shuham\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfo.cs
+C:\69_JISU\Edu\Projects\Shuham\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+C:\69_JISU\Edu\Projects\Shuham\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\69_JISU\Edu\Projects\Shuham\Final\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\Users\shu50\OneDrive\Desktop\Ecommerce 11_07\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.deps.json
+C:\Users\shu50\OneDrive\Desktop\Ecommerce 11_07\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\shu50\OneDrive\Desktop\Ecommerce 11_07\Ecommerce.Model\bin\Debug\netcoreapp1.1\Ecommerce.Model.pdb
+C:\Users\shu50\OneDrive\Desktop\Ecommerce 11_07\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.AssemblyReference.cache
+C:\Users\shu50\OneDrive\Desktop\Ecommerce 11_07\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu50\OneDrive\Desktop\Ecommerce 11_07\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfoInputs.cache
+C:\Users\shu50\OneDrive\Desktop\Ecommerce 11_07\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.AssemblyInfo.cs
+C:\Users\shu50\OneDrive\Desktop\Ecommerce 11_07\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\shu50\OneDrive\Desktop\Ecommerce 11_07\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.dll
+C:\Users\shu50\OneDrive\Desktop\Ecommerce 11_07\Ecommerce.Model\obj\Debug\netcoreapp1.1\Ecommerce.Model.pdb
